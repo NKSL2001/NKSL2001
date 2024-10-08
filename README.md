@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://hatscripts.github.io/circle-flags/flags/my.svg" width="64"> Love from Malaysia with <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20" style="vertical-align: text-bottom;"/>
+
 <!--
 **NKSL2001/NKSL2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
